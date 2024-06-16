@@ -1,0 +1,4 @@
+
+If your UPDATE and DELETE queries aren't executing in MySQL, one common reason could be the safe update mode.
+Safe update mode prevents the execution of UPDATE and DELETE statements unless they include a key in the WHERE clause or a LIMIT clause.
+This is a safety feature to prevent accidental mass updates or deletions
