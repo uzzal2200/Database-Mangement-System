@@ -1,0 +1,21 @@
+select *
+from Employees
+select DEPARTMENT_ID, max(SALARY)
+from employees 
+group by DEPARTMENT_ID;
+
+select DEPARTMENT_ID, count(*)
+from employees 
+group by DEPARTMENT_ID;
+
+select *
+from employees
+where DEPARTMENT_ID=20;
+
+select DEPARTMENT_ID, max(SALARY) as sal
+from employees 
+where DEPARTMENT_ID != 20
+group by DEPARTMENT_ID;
+having sal > 5000
+having max(SALARY) > 5000
+
