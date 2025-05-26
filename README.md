@@ -72,10 +72,13 @@ I am passionate about databases and backend development. This repository showcas
 
 ---
 
-📬 Contact
-GitHub: uzzal2200
-**Email:**uzzal.220605@s.pust.ac.bd
-Feel free to reach out for collaboration or discussion on any of these projects
+
+## 📬 Contact
+
+- **GitHub:** [uzzal2200](https://github.com/uzzal2200)
+- **Email:**uzzal.220605@s.pust.ac.bd
+
+Feel free to reach out for collaboration or discussion on any of these projects!
 
 
 
